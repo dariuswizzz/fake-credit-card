@@ -90,3 +90,4 @@ generate_card("visa13")
 generate_card("visa16")
 
 
+input()
